@@ -8,3 +8,4 @@ elif choice ==2:
   computer == "Scissors"
 else:
   computer == "Paper"
+print(f"Computer chose: {computer}")
